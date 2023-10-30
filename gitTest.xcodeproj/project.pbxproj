@@ -17,6 +17,7 @@
 		EA86DD322AF02458008CA06F /* gitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA86DD312AF02458008CA06F /* gitTestUITests.swift */; };
 		EA86DD342AF02458008CA06F /* gitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA86DD332AF02458008CA06F /* gitTestUITestsLaunchTests.swift */; };
 		EA86DD412AF02A50008CA06F /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA86DD402AF02A50008CA06F /* User.swift */; };
+		EA86DD432AF02D8D008CA06F /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA86DD422AF02D8D008CA06F /* DataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		EA86DD312AF02458008CA06F /* gitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTestUITests.swift; sourceTree = "<group>"; };
 		EA86DD332AF02458008CA06F /* gitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		EA86DD402AF02A50008CA06F /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		EA86DD422AF02D8D008CA06F /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				EA86DD122AF02456008CA06F /* SceneDelegate.swift */,
 				EA86DD142AF02456008CA06F /* ViewController.swift */,
 				EA86DD402AF02A50008CA06F /* User.swift */,
+				EA86DD422AF02D8D008CA06F /* DataManager.swift */,
 				EA86DD162AF02456008CA06F /* Main.storyboard */,
 				EA86DD192AF02458008CA06F /* Assets.xcassets */,
 				EA86DD1B2AF02458008CA06F /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA86DD412AF02A50008CA06F /* User.swift in Sources */,
+				EA86DD432AF02D8D008CA06F /* DataManager.swift in Sources */,
 				EA86DD152AF02456008CA06F /* ViewController.swift in Sources */,
 				EA86DD112AF02456008CA06F /* AppDelegate.swift in Sources */,
 				EA86DD132AF02456008CA06F /* SceneDelegate.swift in Sources */,
